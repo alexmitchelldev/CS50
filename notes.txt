@@ -1,0 +1,1 @@
+to compile with CS50 use "clang hello.c -o hello -lcs50"
